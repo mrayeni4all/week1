@@ -1,0 +1,14 @@
+
+
+.socialMedia {
+    font-size: 2em;
+    color: green;
+}
+
+h1 { text-align: left; padding: 10px;}
+p { text-align: justify;}
+.credits { text-align: right;}
+
+p { padding: 10px}
+
+.myContact { text-align: center;}
